@@ -1,0 +1,36 @@
+.jumbotron
+{
+    text-align: center;
+    background: none;
+}
+.section-light
+{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.section-dark
+{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+button.cool-stuff
+{
+     color:#ffffff;
+    background-color: red;
+    display: block;
+    margin: auto;
+}
+.cool-stuff-wrapper
+{
+    margin-top: 20px;
+}
+.image
+{
+    width: 200px;
+    height: 120px;
+}
+.img-fluid
+{
+    width:200px;
+    height:120px;
+}
